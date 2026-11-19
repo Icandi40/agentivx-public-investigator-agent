@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Raw OFAC downloads contain personal identifiers (dates of birth, passport numbers,
+# street addresses). Only the privacy-filtered snapshot in data/processed is committed.
+data/raw/*.CSV
+
+# Secrets
+.env
+.env.*

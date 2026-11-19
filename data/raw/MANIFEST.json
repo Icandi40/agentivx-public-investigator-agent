@@ -1,0 +1,11 @@
+{
+  "source": "U.S. Treasury OFAC Specially Designated Nationals (SDN) list, legacy CSV",
+  "source_url": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/",
+  "publication_date": "2026-11-17",
+  "retrieved_at": "2026-11-18T20:51:06Z",
+  "files": [
+    "SDN.CSV",
+    "ALT.CSV",
+    "ADD.CSV"
+  ]
+}

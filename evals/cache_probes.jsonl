@@ -1,0 +1,44 @@
+{"id": "para-01", "kind": "paraphrase", "source": "lookup-01", "question": "Which sanctions program lists BANCO NACIONAL DE CUBA, and is it on the SDN list?", "valid_answers": ["lookup-01"]}
+{"id": "para-02", "kind": "paraphrase", "source": "lookup-03", "question": "Under which program is AL-BAKR, Ibrahim 'Isa Hajji Muhammad sanctioned?", "valid_answers": ["lookup-03"]}
+{"id": "para-03", "kind": "paraphrase", "source": "lookup-05", "question": "Where is ELLISSA GROUP SA located, and is it on the SDN list?", "valid_answers": ["lookup-05"]}
+{"id": "para-04", "kind": "paraphrase", "source": "lookup-09", "question": "List the sanctions programs that apply to VTB BANK PUBLIC JOINT STOCK COMPANY.", "valid_answers": ["lookup-09"]}
+{"id": "para-05", "kind": "paraphrase", "source": "lookup-10", "question": "Which country is OLD VECTOR LLC in, and is it on the SDN list?", "valid_answers": ["lookup-10"]}
+{"id": "para-06", "kind": "paraphrase", "source": "alias-01", "question": "BIMEH IRAN is an alias for which SDN listing?", "valid_answers": ["alias-01"]}
+{"id": "para-07", "kind": "paraphrase", "source": "alias-04", "question": "BAIKAL is an alias of which sanctioned entity?", "valid_answers": ["alias-04"]}
+{"id": "para-08", "kind": "paraphrase", "source": "alias-05", "question": "Which SDN entity goes by the alias PDVSA?", "valid_answers": ["alias-05"]}
+{"id": "para-09", "kind": "paraphrase", "source": "alias-06", "question": "What is IRISL on the SDN list, and what programs is it under?", "valid_answers": ["alias-06"]}
+{"id": "para-10", "kind": "paraphrase", "source": "rel-03", "question": "Which records is ZUPPA HOLDINGS LIMITED linked to?", "valid_answers": ["rel-03"]}
+{"id": "para-11", "kind": "paraphrase", "source": "rel-06", "question": "Which people are linked to AEZA GROUP LLC on the SDN list?", "valid_answers": ["rel-06"]}
+{"id": "para-12", "kind": "paraphrase", "source": "vessel-01", "question": "For the vessel GLORY STAR I, what flag and vessel type does OFAC list?", "valid_answers": ["vessel-01"]}
+{"id": "para-13", "kind": "paraphrase", "source": "vessel-02", "question": "What IMO number does the SDN list show for the vessel PEACE HILL?", "valid_answers": ["vessel-02"]}
+{"id": "para-14", "kind": "paraphrase", "source": "vessel-04", "question": "According to OFAC, which flag is the vessel MARBEL under?", "valid_answers": ["vessel-04"]}
+{"id": "para-15", "kind": "paraphrase", "source": "crypto-02", "question": "Bitcoin address 3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n: who is it associated with?", "valid_answers": ["crypto-02"]}
+{"id": "para-16", "kind": "paraphrase", "source": "crypto-03", "question": "Is the TRON address TU4tDFRvcKhAZ1jdihojmBWZqvJhQCnJ4F sanctioned?", "valid_answers": ["crypto-03"]}
+{"id": "para-17", "kind": "paraphrase", "source": "count-03", "question": "What is the number of records under the CYBER4 program?", "valid_answers": ["count-03"]}
+{"id": "para-18", "kind": "paraphrase", "source": "count-06", "question": "Count the SDN records under the CUBA program.", "valid_answers": ["count-06"]}
+{"id": "para-19", "kind": "paraphrase", "source": "rel-01", "question": "In its SDN record, what is TAMCO ESTABLISHMENT FOR OIL DERIVATIVES linked to?", "valid_answers": ["rel-01"]}
+{"id": "para-20", "kind": "paraphrase", "source": "lookup-04", "question": "Which countries does the SDN record for IRAN INSURANCE COMPANY list?", "valid_answers": ["lookup-04"]}
+{"id": "near-01", "kind": "near_miss", "source": "lookup-01", "question": "Is BANCO NACIONAL DE PANAMA on the SDN list? Which program is it under?", "valid_answers": []}
+{"id": "near-02", "kind": "near_miss", "source": "lookup-03", "question": "Which sanctions program covers AL-RAWI, Fawzi Mutlaq?", "valid_answers": []}
+{"id": "near-03", "kind": "near_miss", "source": "lookup-05", "question": "Is ELLISSA HOLDINGS SA on the SDN list? Where is it located?", "valid_answers": []}
+{"id": "near-04", "kind": "near_miss", "source": "lookup-09", "question": "Which programs is SOVCOMBANK OPEN JOINT STOCK COMPANY listed under?", "valid_answers": []}
+{"id": "near-05", "kind": "near_miss", "source": "lookup-10", "question": "Is A7 LIMITED LIABILITY COMPANY on the SDN list, and which country is it in?", "valid_answers": []}
+{"id": "near-06", "kind": "near_miss", "source": "alias-01", "question": "Who is listed on the SDN list under the alias TAMCO PETROLEUM?", "valid_answers": ["alias-03"]}
+{"id": "near-07", "kind": "near_miss", "source": "alias-04", "question": "Which SDN entity is also known as SOVCOMBANK OJSC?", "valid_answers": ["alias-08"]}
+{"id": "near-08", "kind": "near_miss", "source": "alias-05", "question": "What does the alias IRISL refer to on the SDN list?", "valid_answers": ["alias-06"]}
+{"id": "near-09", "kind": "near_miss", "source": "rel-03", "question": "Who is LORA ENTERPRISES LIMITED linked to?", "valid_answers": []}
+{"id": "near-10", "kind": "near_miss", "source": "rel-06", "question": "Which individuals are linked to XINBI GUARANTEE?", "valid_answers": []}
+{"id": "near-11", "kind": "near_miss", "source": "vessel-01", "question": "What flag and vessel type does the SDN record for PEACE HILL show?", "valid_answers": []}
+{"id": "near-12", "kind": "near_miss", "source": "vessel-02", "question": "What is the IMO number of the vessel GLORY STAR I?", "valid_answers": []}
+{"id": "near-13", "kind": "near_miss", "source": "vessel-04", "question": "What flag does the vessel PARSHAD fly according to OFAC?", "valid_answers": []}
+{"id": "near-14", "kind": "near_miss", "source": "crypto-02", "question": "Who is associated with the bitcoin address 3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq?", "valid_answers": []}
+{"id": "near-15", "kind": "near_miss", "source": "crypto-03", "question": "Screen the TRON address TCFD8N3vM5b4Gr5f1kkajQsodRVNyyAq1d.", "valid_answers": []}
+{"id": "near-16", "kind": "near_miss", "source": "count-03", "question": "How many records are under the CYBER2 program?", "valid_answers": []}
+{"id": "near-17", "kind": "near_miss", "source": "count-06", "question": "How many SDN records are under the IRAN program?", "valid_answers": []}
+{"id": "near-18", "kind": "near_miss", "source": "count-04", "question": "How many vessels are designated under DPRK4?", "valid_answers": []}
+{"id": "near-19", "kind": "near_miss", "source": "rel-01", "question": "What is ZUPPA HOLDINGS LIMITED linked to in its SDN record?", "valid_answers": []}
+{"id": "near-20", "kind": "near_miss", "source": "lookup-04", "question": "What countries appear in the SDN record for XINBI GUARANTEE?", "valid_answers": []}
+{"id": "noanchor-01", "kind": "no_anchor", "source": "notfound-01", "question": "Does BLUE HARBOR LOGISTICS GMBH appear on the SDN list?", "valid_answers": []}
+{"id": "noanchor-02", "kind": "no_anchor", "source": "notfound-04", "question": "Is ACME ROBOTICS INC an SDN?", "valid_answers": []}
+{"id": "noanchor-03", "kind": "no_anchor", "source": "fuzzy-03", "question": "Is HANSA SHIPING INC on the sanctions list?", "valid_answers": []}
+{"id": "noanchor-04", "kind": "no_anchor", "source": "fuzzy-04", "question": "Please screen GLAD GLORRY LIMITED.", "valid_answers": []}
